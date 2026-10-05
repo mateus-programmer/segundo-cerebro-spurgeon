@@ -35,25 +35,29 @@ Entre os assuntos explorados estão:
 
 ## 📚 Fontes utilizadas
 
-Foram utilizadas **9 fontes em vídeo adicionadas diretamente ao NotebookLM** e uma fonte institucional encontrada pela própria ferramenta.
+O notebook desenvolvido no NotebookLM apresentava 30 fontes no total no momento da realização do projeto.
 
-### Fontes adicionadas diretamente
+Dessas fontes, 9 foram adicionadas diretamente pelo autor, por meio de vídeos do YouTube relacionados à vida, teologia, pregação e metodologia de Charles Spurgeon.
 
-1. YouTube — `VsFRB-SOmMU`
-2. YouTube — `LA_NaG5171g`
-3. YouTube — `t2vjByayjOo`
-4. YouTube — `dEiJ3AFY_gw`
-5. YouTube — `OsIcbsv5HhY`
-6. YouTube — `cKYQW5KB40U`
-7. YouTube — `sFKEFJIHsRc`
-8. YouTube — `vuPPQsQ-lKM`
-9. YouTube — `JK178X1YP9s`
+Entre as fontes utilizadas no desenvolvimento e nas respostas está também o site institucional Spurgeon Library (Spurgeon.org), além de outras fontes disponíveis no próprio NotebookLM.
 
-As fontes foram adicionadas como materiais de estudo sobre a vida, ministério, pregação e ensinamentos de Charles Spurgeon.
+### 9 fontes adicionadas diretamente pelo autor
 
-### Fonte encontrada pelo NotebookLM
+1. https://www.youtube.com/watch?v=VsFRB-SOmMU
+2. https://www.youtube.com/watch?v=LA_NaG5171g
+3. https://www.youtube.com/watch?v=t2vjByayjOo
+4. https://www.youtube.com/watch?v=dEiJ3AFY_gw
+5. https://www.youtube.com/watch?v=OsIcbsv5HhY
+6. https://www.youtube.com/watch?v=cKYQW5KB40U
+7. https://www.youtube.com/watch?v=sFKEFJIHsRc
+8. https://www.youtube.com/watch?v=vuPPQsQ-lKM
+9. https://www.youtube.com/watch?v=JK178X1YP9s
 
-**Spurgeon Library — Spurgeon.org**
+### Fonte institucional
+
+- Spurgeon Library — https://www.spurgeon.org/
+
+> Observação: o NotebookLM apresentava 30 fontes no total. Este README identifica as fontes adicionadas diretamente pelo autor e as fontes cuja identificação foi registrada durante a documentação do projeto, sem inventar ou atribuir nomes às demais fontes não documentadas individualmente.
 
 A fonte institucional foi utilizada como complemento às fontes em vídeo, por ser dedicada à preservação e disponibilização de materiais relacionados a Charles Haddon Spurgeon, incluindo sermões, escritos, biografia e legado.
 
